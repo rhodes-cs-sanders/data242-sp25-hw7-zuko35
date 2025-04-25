@@ -1,0 +1,251 @@
+StudentID,Major,ClassYear,GPA_Sem1,GPA_Sem2,Credits_Enrolled,Hours_Study,AttendanceRate,Scholarship
+1001,Psychology,Freshman,3.86,3.68,14,12.0,0.98,No
+1002,English,Senior,3.01,3.29,13,24.0,0.76,No
+1003,Economics,Senior,3.23,3.23,15,33.0,0.89,No
+1004,English,Sophomore,2.96,2.85,16,14.0,0.93,Yes
+1005,English,Senior,2.93,2.92,12,38.0,0.97,Yes
+1006,Biology,Senior,3.09,2.72,16,30.0,0.93,No
+1007,Economics,Sophomore,3.09,2.33,18,7.0,0.95,No
+1008,Economics,Junior,2.96,3.04,13,10.0,0.83,No
+1009,Economics,Senior,2.98,3.08,16,9.0,0.95,No
+1010,English,Sophomore,3.64,4.0,12,9.0,0.77,Yes
+1011,Psychology,Freshman,4.0,3.83,13,27.0,0.97,Yes
+1012,Economics,Junior,3.0,3.42,16,13.0,0.89,No
+1013,English,Freshman,,4.0,15,39.0,0.95,Yes
+1014,Biology,Freshman,3.41,3.76,17,24.0,0.86,No
+1015,Psychology,Sophomore,4.0,2.4,13,39.0,0.91,No
+1016,Biology,Senior,3.23,3.63,17,22.0,0.88,No
+1017,Psychology,Sophomore,3.59,3.48,13,21.0,0.93,Yes
+1018,English,Sophomore,3.82,3.08,15,28.0,0.77,No
+1019,Computer Science,Sophomore,3.34,2.63,17,7.0,0.77,No
+1020,Psychology,Sophomore,3.57,3.44,14,36.0,0.81,No
+1021,Biology,Junior,3.44,2.37,12,39.0,0.79,Yes
+1022,English,Senior,3.61,3.19,14,17.0,0.97,No
+1023,Psychology,Freshman,2.79,2.95,16,29.0,0.8,No
+1024,Computer Science,Freshman,3.28,2.7,15,13.0,0.99,Yes
+1025,Computer Science,Senior,3.39,3.68,14,8.0,0.83,Yes
+1026,Economics,Freshman,,3.18,13,18.0,0.8,Yes
+1027,Economics,Senior,3.65,3.27,16,,0.95,No
+1028,Biology,Freshman,3.38,3.56,16,15.0,0.91,No
+1029,Psychology,Sophomore,2.74,3.2,14,7.0,0.87,No
+1030,Psychology,Freshman,3.44,,14,32.0,0.89,Yes
+1031,Economics,Senior,2.85,3.53,15,33.0,0.93,Yes
+1032,Psychology,Senior,2.92,3.43,12,13.0,0.81,No
+1033,Psychology,Senior,3.03,3.31,14,7.0,1.0,No
+1034,Computer Science,Senior,3.16,3.91,18,29.0,0.99,No
+1035,Economics,Senior,2.58,3.7,14,38.0,0.91,Yes
+1036,English,Junior,3.65,3.17,17,16.0,0.8,No
+1037,Economics,Junior,2.74,2.84,13,13.0,0.92,No
+1038,English,Freshman,3.83,3.46,18,19.0,0.77,No
+1039,Computer Science,Senior,2.75,3.29,18,29.0,0.76,No
+1040,Biology,Freshman,3.71,3.88,17,9.0,0.81,No
+1041,Psychology,Senior,3.19,3.59,17,15.0,0.87,No
+1042,Computer Science,Senior,2.51,3.51,16,38.0,0.97,Yes
+1043,Psychology,Junior,2.78,3.21,12,28.0,0.93,Yes
+1044,Biology,Junior,3.73,2.85,13,19.0,0.94,No
+1045,Biology,Sophomore,3.38,3.12,15,12.0,0.86,No
+1046,Computer Science,Junior,3.17,3.39,18,9.0,0.84,Yes
+1047,Biology,Sophomore,2.31,2.51,15,30.0,0.84,Yes
+1048,English,Sophomore,3.76,3.7,14,22.0,1.0,Yes
+1049,Biology,Sophomore,3.95,4.0,14,,0.76,No
+1050,Psychology,Sophomore,3.88,2.42,15,17.0,0.97,Yes
+1051,Psychology,Sophomore,2.95,2.64,14,32.0,0.89,Yes
+1052,Psychology,Freshman,3.35,3.29,12,9.0,0.86,Yes
+1053,Psychology,Junior,3.4,2.97,17,17.0,0.93,Yes
+1054,English,Sophomore,2.59,3.3,14,21.0,,Yes
+1055,Economics,Senior,3.27,3.17,16,36.0,0.97,No
+1056,Computer Science,Junior,3.63,2.79,14,33.0,,Yes
+1057,Psychology,Junior,3.51,3.72,13,7.0,0.86,No
+1058,Biology,Sophomore,2.76,3.39,12,38.0,0.82,Yes
+1059,Psychology,Freshman,2.85,2.98,13,31.0,0.9,No
+1060,Biology,Sophomore,3.52,3.8,13,,0.98,No
+1061,Biology,Freshman,3.45,3.0,16,37.0,,No
+1062,Psychology,Senior,2.3,2.7,12,10.0,0.91,No
+1063,English,Junior,2.22,3.27,12,28.0,0.91,Yes
+1064,Biology,Senior,3.17,3.34,12,23.0,0.93,Yes
+1065,Biology,Freshman,2.96,3.41,12,,0.78,No
+1066,Psychology,Freshman,,3.48,12,32.0,0.93,No
+1067,Biology,Senior,3.04,3.41,16,37.0,0.98,No
+1068,Biology,Freshman,3.59,3.39,14,17.0,0.79,No
+1069,Psychology,Senior,3.24,2.97,13,29.0,0.81,No
+1070,Psychology,Junior,3.31,2.93,12,40.0,0.99,No
+1071,Computer Science,Senior,2.66,3.5,18,31.0,0.8,Yes
+1072,English,Junior,1.85,3.3,14,11.0,0.96,No
+1073,English,Senior,3.65,3.53,14,9.0,0.87,No
+1074,Biology,Freshman,4.0,2.52,13,35.0,0.81,Yes
+1075,English,Senior,3.06,3.0,16,27.0,0.97,No
+1076,Biology,Freshman,3.3,3.96,15,14.0,0.86,Yes
+1077,Computer Science,Senior,3.33,3.42,15,36.0,0.88,No
+1078,Psychology,Senior,3.87,3.32,14,34.0,0.84,Yes
+1079,Psychology,Sophomore,3.56,3.48,17,35.0,0.9,No
+1080,Psychology,Freshman,3.4,4.0,17,22.0,0.79,No
+1081,English,Sophomore,3.22,,13,40.0,0.85,Yes
+1082,Computer Science,Freshman,3.22,2.57,15,6.0,,No
+1083,English,Sophomore,2.62,2.72,14,18.0,0.81,No
+1084,English,Junior,3.05,2.55,16,17.0,0.91,No
+1085,Computer Science,Senior,3.55,2.9,15,33.0,0.83,Yes
+1086,Computer Science,Freshman,,3.22,14,16.0,0.94,Yes
+1087,Computer Science,Freshman,3.22,3.3,14,6.0,0.78,Yes
+1088,Computer Science,Senior,2.73,2.59,12,36.0,0.99,No
+1089,Psychology,Freshman,3.38,2.45,16,17.0,0.86,No
+1090,Economics,Freshman,2.62,2.89,12,31.0,0.81,No
+1091,Economics,Sophomore,3.32,3.57,13,21.0,0.77,No
+1092,Computer Science,Freshman,3.13,3.64,12,35.0,0.79,No
+1093,Economics,Junior,2.5,3.88,18,38.0,0.88,No
+1094,Economics,Junior,3.63,3.19,12,28.0,,Yes
+1095,Computer Science,Senior,3.13,3.53,18,39.0,0.96,No
+1096,Economics,Freshman,3.94,3.6,15,10.0,0.86,Yes
+1097,English,Senior,3.79,3.0,17,,0.81,No
+1098,Biology,Junior,2.85,3.36,14,34.0,0.9,No
+1099,Biology,Freshman,2.88,3.46,18,11.0,0.93,No
+1100,Computer Science,Freshman,2.73,2.84,16,14.0,0.79,Yes
+1101,Psychology,Senior,,3.86,12,36.0,0.79,Yes
+1102,Computer Science,Junior,3.03,3.18,18,38.0,0.76,Yes
+1103,Psychology,Freshman,,3.23,16,32.0,0.93,Yes
+1104,Biology,Senior,2.43,2.82,17,19.0,0.92,Yes
+1105,Computer Science,Junior,3.54,2.89,17,34.0,0.87,No
+1106,English,Senior,3.51,2.32,12,33.0,0.96,No
+1107,Economics,Sophomore,3.42,3.22,13,26.0,0.95,Yes
+1108,Psychology,Freshman,3.49,4.0,12,8.0,0.9,Yes
+1109,Economics,Sophomore,2.76,2.79,15,24.0,0.97,No
+1110,Economics,Junior,3.5,4.0,18,36.0,0.8,No
+1111,Computer Science,Sophomore,2.98,3.77,14,40.0,0.78,No
+1112,Economics,Sophomore,2.22,3.01,13,8.0,0.82,No
+1113,English,Junior,3.22,3.21,12,,0.76,No
+1114,Economics,Senior,2.86,3.15,16,21.0,0.88,No
+1115,Computer Science,Sophomore,3.74,3.88,13,16.0,0.98,No
+1116,English,Senior,3.09,3.41,18,26.0,0.76,Yes
+1117,Biology,Sophomore,3.22,3.67,13,,0.78,No
+1118,Economics,Senior,3.36,3.34,18,,0.86,Yes
+1119,Computer Science,Junior,3.09,3.16,12,5.0,0.98,No
+1120,Biology,Sophomore,3.16,3.33,18,26.0,0.83,Yes
+1121,Biology,Junior,,3.04,13,,0.88,No
+1122,Psychology,Sophomore,2.77,2.62,16,22.0,0.76,No
+1123,English,Junior,2.92,3.53,17,18.0,0.79,No
+1124,Economics,Junior,2.81,2.6,13,33.0,1.0,No
+1125,Computer Science,Sophomore,3.77,3.09,18,16.0,0.99,Yes
+1126,Psychology,Sophomore,2.92,3.02,17,40.0,0.75,Yes
+1127,English,Sophomore,3.14,3.46,18,39.0,0.99,No
+1128,Psychology,Freshman,2.96,3.83,16,16.0,0.91,Yes
+1129,English,Senior,3.08,3.68,18,11.0,0.97,No
+1130,English,Freshman,2.91,3.47,12,33.0,0.86,Yes
+1131,Economics,Freshman,3.39,2.95,14,15.0,0.88,No
+1132,English,Junior,2.78,,13,37.0,,No
+1133,Psychology,Sophomore,2.66,3.07,14,10.0,0.92,No
+1134,English,Senior,2.98,3.01,18,19.0,0.78,Yes
+1135,Economics,Junior,2.88,3.04,16,36.0,,No
+1136,Economics,Freshman,2.66,3.03,13,15.0,0.83,No
+1137,Psychology,Sophomore,3.07,3.01,18,27.0,0.93,No
+1138,Biology,Junior,2.54,3.58,17,30.0,0.8,No
+1139,Biology,Sophomore,3.89,2.78,15,38.0,0.92,No
+1140,English,Junior,2.6,2.91,18,38.0,0.99,Yes
+1141,Computer Science,Sophomore,2.94,2.57,14,33.0,0.77,No
+1142,English,Freshman,3.04,3.77,13,8.0,,Yes
+1143,Psychology,Senior,3.87,2.88,14,21.0,0.86,Yes
+1144,Psychology,Freshman,2.51,3.46,13,39.0,0.97,Yes
+1145,Psychology,Senior,3.26,3.39,18,17.0,0.79,Yes
+1146,Psychology,Sophomore,3.61,3.73,12,19.0,0.92,Yes
+1147,Psychology,Junior,3.08,3.12,17,33.0,0.96,Yes
+1148,Economics,Freshman,2.73,2.82,18,33.0,0.99,No
+1149,Biology,Senior,3.16,2.58,14,15.0,0.92,No
+1150,Psychology,Freshman,3.81,2.09,15,36.0,0.87,No
+1151,Computer Science,Senior,2.95,3.26,15,6.0,0.9,No
+1152,Computer Science,Freshman,3.77,3.51,16,18.0,0.97,Yes
+1153,Computer Science,Senior,3.3,,13,24.0,,No
+1154,Computer Science,Senior,3.69,2.59,14,26.0,0.76,No
+1155,Economics,Sophomore,3.29,3.62,16,15.0,0.98,Yes
+1156,Computer Science,Senior,3.01,2.92,14,31.0,0.92,No
+1157,Psychology,Sophomore,3.86,2.84,13,7.0,0.92,Yes
+1158,English,Senior,3.29,2.91,18,21.0,,No
+1159,Computer Science,Junior,3.27,3.23,18,32.0,0.91,No
+1160,Economics,Junior,3.52,2.61,15,33.0,0.85,Yes
+1161,Economics,Junior,3.57,3.19,18,25.0,0.91,Yes
+1162,Computer Science,Senior,3.53,,18,20.0,0.78,No
+1163,English,Sophomore,2.66,3.64,12,24.0,0.91,No
+1164,Computer Science,Sophomore,2.95,3.27,15,10.0,,Yes
+1165,Economics,Senior,2.94,2.66,16,23.0,0.76,No
+1166,Biology,Junior,2.89,3.26,17,9.0,0.99,Yes
+1167,Psychology,Junior,2.85,2.78,12,,0.85,No
+1168,Economics,Sophomore,2.93,2.75,16,5.0,0.97,No
+1169,Computer Science,Junior,,2.65,13,19.0,,Yes
+1170,Psychology,Freshman,,2.44,12,38.0,0.89,Yes
+1171,Computer Science,Sophomore,3.2,2.97,16,39.0,0.93,Yes
+1172,Computer Science,Junior,3.03,3.65,13,29.0,0.97,Yes
+1173,Biology,Sophomore,3.71,4.0,15,28.0,0.85,Yes
+1174,Psychology,Freshman,3.16,,17,16.0,0.83,No
+1175,Psychology,Sophomore,3.57,3.63,13,22.0,0.92,Yes
+1176,Biology,Sophomore,2.97,3.04,18,19.0,0.95,No
+1177,Economics,Sophomore,3.37,2.54,14,20.0,0.94,No
+1178,Computer Science,Sophomore,3.74,3.48,13,31.0,0.95,No
+1179,English,Freshman,2.16,3.29,13,12.0,0.86,No
+1180,Computer Science,Senior,2.94,3.93,17,29.0,0.95,Yes
+1181,Computer Science,Sophomore,3.44,,14,21.0,0.78,No
+1182,Economics,Sophomore,3.69,4.0,18,33.0,0.89,No
+1183,Computer Science,Junior,3.28,3.84,16,12.0,0.75,No
+1184,Biology,Sophomore,3.22,3.19,16,19.0,0.83,Yes
+1185,Biology,Junior,3.84,3.08,13,31.0,0.84,No
+1186,Psychology,Senior,3.71,2.91,14,11.0,0.85,No
+1187,English,Freshman,2.85,3.24,14,7.0,0.92,Yes
+1188,Computer Science,Freshman,3.25,3.13,18,33.0,0.85,Yes
+1189,Computer Science,Senior,3.34,3.41,17,28.0,0.86,No
+1190,Economics,Freshman,3.89,3.08,15,7.0,0.81,No
+1191,Biology,Senior,3.55,,16,24.0,0.84,No
+1192,English,Senior,3.16,3.25,17,19.0,0.81,No
+1193,Psychology,Senior,3.29,3.1,12,29.0,0.77,Yes
+1194,Biology,Freshman,2.45,3.61,16,34.0,0.9,No
+1195,Psychology,Junior,3.59,2.55,17,18.0,0.92,No
+1196,Economics,Senior,3.46,3.34,16,11.0,0.9,Yes
+1197,Economics,Sophomore,3.68,3.21,15,21.0,0.87,Yes
+1198,Computer Science,Freshman,3.14,2.64,12,24.0,0.84,No
+1199,English,Senior,3.25,2.52,15,40.0,0.97,Yes
+1200,Psychology,Senior,3.01,3.6,18,13.0,0.88,No
+1201,Biology,Sophomore,2.74,3.59,12,26.0,0.87,Yes
+1202,Economics,Junior,2.96,3.27,13,6.0,0.76,Yes
+1203,Computer Science,Junior,2.47,3.89,17,28.0,0.84,Yes
+1204,Computer Science,Junior,3.57,3.38,12,12.0,0.85,No
+1205,Psychology,Senior,2.33,3.7,18,15.0,0.85,No
+1206,Economics,Senior,4.0,3.37,18,17.0,0.9,No
+1207,English,Senior,2.49,3.09,15,21.0,0.88,No
+1208,Economics,Freshman,3.8,2.78,16,12.0,0.9,Yes
+1209,Psychology,Sophomore,2.84,2.96,12,25.0,0.94,No
+1210,Psychology,Senior,,3.1,17,22.0,0.95,No
+1211,Economics,Sophomore,2.9,3.75,12,34.0,,No
+1212,Psychology,Sophomore,3.87,3.51,14,22.0,0.99,Yes
+1213,Economics,Junior,3.22,3.33,16,35.0,0.75,No
+1214,Biology,Freshman,3.63,3.55,17,36.0,0.8,Yes
+1215,Economics,Senior,3.23,3.41,17,15.0,0.75,Yes
+1216,Economics,Junior,3.34,3.3,13,,0.91,No
+1217,Psychology,Junior,3.45,2.6,15,37.0,0.97,No
+1218,Psychology,Senior,,3.66,13,12.0,0.81,Yes
+1219,Computer Science,Sophomore,2.69,3.02,17,15.0,0.98,Yes
+1220,Computer Science,Junior,2.68,3.64,16,26.0,0.77,No
+1221,Biology,Sophomore,3.22,3.67,12,28.0,0.98,No
+1222,Computer Science,Freshman,3.0,2.93,12,21.0,0.84,No
+1223,Economics,Sophomore,2.34,3.58,16,16.0,0.78,No
+1224,Psychology,Freshman,3.41,3.06,17,36.0,0.87,No
+1225,Computer Science,Sophomore,2.71,3.06,18,19.0,0.81,Yes
+1226,Computer Science,Junior,2.74,3.3,12,20.0,,No
+1227,Biology,Junior,3.18,3.31,18,26.0,0.83,No
+1228,Biology,Freshman,2.84,3.22,12,,0.95,Yes
+1229,Economics,Senior,3.25,2.67,12,24.0,0.88,No
+1230,Psychology,Freshman,3.99,3.15,15,37.0,,Yes
+1231,Biology,Freshman,3.05,4.0,15,14.0,0.9,No
+1232,Computer Science,Sophomore,2.78,2.09,14,36.0,0.93,No
+1233,Psychology,Sophomore,3.27,,13,,0.82,No
+1234,Psychology,Freshman,2.89,3.62,16,6.0,0.85,No
+1235,Computer Science,Junior,3.21,2.66,16,37.0,0.78,No
+1236,Biology,Sophomore,3.33,3.01,16,37.0,0.8,No
+1237,Computer Science,Senior,3.19,2.8,14,17.0,0.92,No
+1238,Psychology,Sophomore,3.22,3.94,15,34.0,0.8,Yes
+1239,English,Sophomore,3.28,3.64,17,37.0,0.88,No
+1240,English,Senior,3.84,3.66,18,17.0,0.93,Yes
+1241,Economics,Freshman,3.1,3.25,18,30.0,0.78,No
+1242,Computer Science,Senior,3.25,3.72,17,26.0,0.89,No
+1243,Computer Science,Freshman,3.55,3.2,14,6.0,0.81,No
+1244,Economics,Freshman,3.39,,17,30.0,0.99,Yes
+1245,Economics,Freshman,3.06,,16,19.0,0.87,Yes
+1246,Economics,Senior,3.56,2.93,13,38.0,0.95,No
+1247,Psychology,Freshman,2.85,,12,15.0,0.89,Yes
+1248,Computer Science,Junior,3.11,3.19,18,7.0,0.76,Yes
+1249,Psychology,Senior,2.89,2.84,15,10.0,0.91,Yes
+1250,Economics,Junior,3.43,2.84,15,13.0,0.99,No
